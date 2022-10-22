@@ -1,5 +1,5 @@
 
-![Hero image](https://raw.githubusercontent.com/gahmasec/images/master/GitHubHeader.png)
+![Hero image](https://raw.githubusercontent.com/gahmasec/gahmasec/main/GitHubHeader.png)
 
 [![GitHub followers](https://img.shields.io/github/followers/gahmasec?logo=GitHub&style=for-the-badge)](https://github.com/gahmasec)
 [![GitHub Stars](https://img.shields.io/github/stars/gahmasec?logo=github&style=for-the-badge)](https://github.com/gahmasec)
