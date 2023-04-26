@@ -10,7 +10,7 @@ I'm Guilherme Vieira, aka GahmaSec, MTA certified, Helpdesk technician, and a Ho
 
 # 🧑‍💻 My open source repos
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gahmasec&repo=gahmasec.github.io&theme=radical)](https://github.com/gahmasec/gahmasec.github.i)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gahmasec&repo=gahmasec.github.io&theme=radical)](https://github.com/gahmasec/gahmasec.github.io)
 
 # 📊 My Stats
 
